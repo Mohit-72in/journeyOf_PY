@@ -1,0 +1,5 @@
+Now a days world is moving towards AI & ML
+we cannot use static website 
+we use dynamic website where we utilizing AI & ML algorithm 
+asking some question based on that automaticaly generate the response
+all happend with the evolotion of development of python Language

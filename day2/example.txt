@@ -1,0 +1,5 @@
+Hello, World!
+This file demonstrates File I/O in Python.
+This line is appended.
+Added using r+ mode.
+Final appended line.

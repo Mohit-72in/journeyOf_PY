@@ -1,0 +1,6 @@
+This is added line.
+an old files
+overrite in r+ mode
+r+ mode me file pointer at the start of the file
+so staring se utna character uda dega or wha pe 
+new code add kr dega rest old contents wala codde rha jyega
