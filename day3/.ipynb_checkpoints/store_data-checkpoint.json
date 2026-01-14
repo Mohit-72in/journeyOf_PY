@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alice",
+    "rating": "5",
+    "feedback": "Great Product!!",
+    "age": "25"
+  },
+  {
+    "name": "Mohit",
+    "rating": "four",
+    "feedback": "Ok but late delivery",
+    "age": "30"
+  },
+  {
+    "name": "Bob",
+    "rating": "two",
+    "feedback": "Bad Experience"
+  },
+  {
+    "name": "Eve",
+    "rating": "3.5",
+    "feedback": "Average could be better!!",
+    "age": "28"
+  },
+  {
+    "name": "Alice",
+    "rating": "5",
+    "feedback": "Great Product again!!",
+    "age": "25"
+  },
+  {
+    "name": "Rohit",
+    "rating": "4.5",
+    "feedback": "Awesome!!",
+    "age": "20"
+  }
+]
